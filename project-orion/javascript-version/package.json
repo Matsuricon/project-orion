@@ -44,10 +44,10 @@
     "format": "prettier --write \"src/**/*.{js,jsx}\""
   },
   "dependencies": {
-    "@emotion/cache": "^11.6.0",
+    "@emotion/cache": "^11.10.5",
     "@emotion/react": "^11.7.0",
     "@emotion/server": "^11.4.0",
-    "@emotion/styled": "^11.6.0",
+    "@emotion/styled": "^11.10.5",
     "@mui/lab": "^5.0.0-alpha.70",
     "@mui/material": "^5.4.3",
     "@popperjs/core": "^2.11.2",
