@@ -1,0 +1,17 @@
+{
+  "name": "project-orion",
+  "version": "1.0.0",
+  "description": "Matsuricon Orion",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "HyperCore Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "jquery": "^3.6.4",
+    "popper": "^1.0.1"
+  }
+}
