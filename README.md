@@ -1,6 +1,6 @@
 # What is this?
 
-This repository houses the Matsuricon Operations front end.
+This repository houses the Matsuricon Operations front end and convention experience portal.
 
 # What is Matsuricon?
 
