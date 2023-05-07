@@ -52,10 +52,10 @@ app.get('/tech/requesthelp', (req, res) => {
 
 // Return 404 if page not found
 app.all('*', (req, res) => {
-    res.status(404).sendfile(__dirname + '/public/404.html');
+    res.status(404).sendFile(__dirname + '/public/404.html');
   });
 
 // Start the server
 app.listen(port, () => {
-  console.log(`Server running on http://localhost:${port}`);
+  console.log(`Matsuricon Orion Server running on http://localhost:${port}`);
 });
